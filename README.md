@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](metrics.classic.svg)
+![](metrics.languages.svg)
